@@ -23,9 +23,11 @@ chrome等PC浏览器在页面按F12，手机浏览器使用其他方式进入开
 
 ## 5分钟太久怎么办
 点击TamperMonkey扩展图标，选择管理面板，右键点击Tongji Courses Clock编辑代码。在第54行
+
 `
 if(new Date(item.start).getTime() - new Date().getTime() <= 300000 && new Date(item.start).getTime() - new Date().getTime() > 240000)
 `
+
 这一行代码的300000毫秒和240000毫秒对应的是5分钟和4分钟，比如想设置成提前2分钟就改成120000和60000。
 
 ## 联系作者
