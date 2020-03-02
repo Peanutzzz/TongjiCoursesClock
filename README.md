@@ -1,5 +1,8 @@
 # TongjiCoursesClock
 
+## 事先声明
+这一用户脚本的功能实际上使用价值非常鸡肋，请不要对它抱有太高期待。
+
 ## 使用方式
 ### 安装TamperMonkey
 Tampermonkey 是一款免费的浏览器扩展和最为流行的用户脚本管理器,它适用于 Chrome, Microsoft Edge, Safari, Opera Next, 和 Firefox。相关安装方式参照互联网即可。
